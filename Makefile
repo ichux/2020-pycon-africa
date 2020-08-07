@@ -1,4 +1,4 @@
-.PHONY: help pr
+.PHONY: help lk gc ss uv vo pc ad pa
 
 help:
 	@echo "\`make <target>\` where <target> is one of"
