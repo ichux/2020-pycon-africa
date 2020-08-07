@@ -18,6 +18,7 @@ lk:
 	@echo https://insights.stackoverflow.com/survey/2020
 	@echo https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages
 	@echo https://insights.stackoverflow.com/survey/2020#technology-databases
+	@echo https://github.com/ichux/2020-pycon-africa
 
 gc:
 	@git clone git@github.com:ichux/sqlraw.git
